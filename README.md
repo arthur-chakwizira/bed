@@ -16,8 +16,8 @@ The OUTPUTS of the program are as follows:
 > Highest possible total dose to the target
 > Number of fractions in which this dose can be delivered.
 > A comment highlighting whether the suggested treatment is:
-1. > possible but not optimal (OAR dose limits not exceeded, but total
+1. possible but not optimal (OAR dose limits not exceeded, but total
 dose to target less than maximum possible).
-2  > possible and optimal (OAR dose limits not exceeded, and total dose to
+2. possible and optimal (OAR dose limits not exceeded, and total dose to
 target is equal to maximum possible).
-3  > not possible (dose limit exceeded in at least one OAR)
+3. not possible (dose limit exceeded in at least one OAR)
